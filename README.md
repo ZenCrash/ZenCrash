@@ -13,9 +13,9 @@
         honestly it seems more challing the programming based math, 
         and the creation of game assets, then the programming part
 
-<h2 align="left">Contact Me</h2>
+<h2 align="left">🛠 Contact Me</h2>
 
-<h2 align="left">My Techstack</h2>
+<h2 align="left">🛠 My Techstack</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
