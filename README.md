@@ -20,7 +20,7 @@
 <h2 align="left">My Techstack</h2>
 <hr/>
 <h3 align="left">Langues:</h3>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://camo.githubusercontent.com/4b645f4b9da6e6f8c6d5edc408f4b786805678aaffc90555893cb13f6b726b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465"/>
 
 <h3 align="left">Front End:</h3>
 
