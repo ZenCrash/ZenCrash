@@ -2,13 +2,13 @@
 
 * Iam an Software & Web Devoleper with a Bachler in Computer Sience.
 * I’m currently working on 2 project
-  - 1. Android app for audiobook management. 
+  - Android app for audiobook management. 
         filemanagement,
         file status list (listning, On hold, Dropped, Planned)
         friends management.
         sql-lite intergration.
         friends tab/group.
-  - 2. Unity project with a group.
+  - Unity project with a group.
         physics based game engion space game with build mechanics.
         honestly it seems more challing the programming based math, 
         and the creation of game assets, then the programming part
