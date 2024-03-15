@@ -76,5 +76,6 @@ src="https://camo.githubusercontent.com/7280f0aec882730a9dfa3f75c20673228853a566
 </p>
 
 <h1></h1>
-⚡ Fun fact: Most shaarks do not attend school.
+
+⚡ Fun fact: Most sharks do not attend school.
 
