@@ -71,5 +71,5 @@
 </p>
 
 <h1></h1>
-- ⚡ Fun fact: Most shaarks do not attend school.
+⚡ Fun fact: Most shaarks do not attend school.
 
