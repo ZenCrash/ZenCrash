@@ -30,7 +30,6 @@
   SQL
 </p>p
 
-
 <h3 align="left">Front End:</h3>
 <img src=""/>
 <img src=""/>
