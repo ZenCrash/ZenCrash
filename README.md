@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Allan J.!</h1>
-<hr/
+<hr/>
 
 * Iam an Software & Web Devoleper with a Bachler in Computer Sience.
 * I’m currently working on 2 project
