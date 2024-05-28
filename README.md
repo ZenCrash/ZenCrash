@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Allan J.!</h1>
 
-* Iam an Software & Web Devoleper with a Bachler in Computer Sience.
-* I’m currently working on 2 project
+* Iam an Software & Web Devoleper.
+* I’m currently working on these projects:
   - Android app for audiobook management. 
         filemanagement,
         file status list (listning, On hold, Dropped, Planned)
@@ -12,6 +12,11 @@
         physics based game engion space game with build mechanics.
         honestly it seems more challing the programming based math, 
         and the creation of game assets, then the programming part
+        (on hold until more game assets can be fabricated/aquried)
+  - Blazor project for Cinema Booking web application
+        this project seeks to get more fimilar with changes that has happend in .Net 8
+        in addition to this also gain more experience with mysql as apossed to mmsql.
+        also seeks to get familiar with more moderen pos intergration.
 
 <h2 align="left">🛠 Contact Me</h2>
 <p align="left">
