@@ -17,6 +17,12 @@
         this project seeks to get more fimilar with changes that has happend in .Net 8
         in addition to this also gain more experience with mysql as apossed to mmsql.
         also seeks to get familiar with more moderen pos intergration.
+* Side-note
+  - In regards of job opportunities,
+    I would just like to state that my commit activity does not reflect all my project.
+    Some are private and others ends up being called .v20 to reflect the version editoration ive committed.
+    I commit about 2-4 times a week in regards to my active projects.
+  - Also if you have any questions in regards to any of my projects. feel free to contact me.
 
 <h2 align="left">🛠 Contact Me</h2>
 <p align="left">
