@@ -26,21 +26,21 @@
 
 <h2 align="left">🛠 Contact Me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/allan-jacobsen-498240231/" target="blank"><img width="80px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/263396766274027520" target="blank"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png"/></a>
+  <a href="https://www.linkedin.com/in/allan-jacobsen-498240231/" target="blank"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/263396766274027520" target="blank"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/discord.png"/></a>
 </p>
 
 <h2 align="left">🛠 My Techstack</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/919/919854.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/919/919854.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/1216/1216733.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/1216/1216733.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/732/732190.png"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"/></a>
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/919/919854.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/919/919854.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/1216/1216733.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/1216/1216733.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/732/732190.png"><img width="60px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"/></a>
 </p>
 
 <h3 align="left">Front End:</h3>
