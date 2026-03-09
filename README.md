@@ -36,11 +36,10 @@
 <p align="left">
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/CS.png"/></a> &nbsp;
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Java.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a>
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/JS.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/TS.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/html5.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/css3.png"/></a>
 </p>
 
 <h3 align="left">Front End:</h3>
