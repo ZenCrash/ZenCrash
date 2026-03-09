@@ -26,7 +26,7 @@
 
 <h2 align="left">🛠 Contact Me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/allan-jacobsen-498240231/" target="blank"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/allan-jacobsen-498240231/" target="blank"><img width="80px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;&nbsp;
   <a href="https://discordapp.com/users/263396766274027520" target="blank"><img width="80px" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png"/></a>
 </p>
 
