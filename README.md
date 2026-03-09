@@ -44,7 +44,7 @@
 
 <h3 align="left">Front End:</h3>
 <p align="left">
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/CS.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/.png"/></a> &nbsp;
   DevExpress
 </p>
 
