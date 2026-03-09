@@ -18,14 +18,13 @@
   - .Net 10 Features, and proff of concept projects
     this entails hello login, Minimal SignalR intergration in service registration, and a few more
 
-* On Hold
-  - Android app for audiobook management.
+  - Android app for audiobook management. - (On Hold)
         filemanagement,
         file status list (listning, On hold, Dropped, Planned)
         friends management.
         sql-lite intergration.
         friends tab/group.
-  - Unity project with a group.
+  - Unity project with a group. - (On Hold)
         physics based game engion space game with build mechanics.
         honestly it seems more challing the programming based math, 
         and the creation of game assets, then the programming part
