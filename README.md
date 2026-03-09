@@ -45,18 +45,18 @@
 <h3 align="left">Front End:</h3>
 <p align="left">
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Blazor.png"/></a> &nbsp;
-    <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/WPF.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MVC.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MVC.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/WPF.png"/></a> &nbsp;
 </p>
 
 <h3 align="left">Back End:</h3>
 <p align="left">
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MSSQL.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AzureTables.png"/></a> &nbsp;
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
 </p>
@@ -75,7 +75,7 @@
 <h3 align="left">Deployment:</h3>
 <p align="left">
   <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NPM.png"/></a> &nbsp;
+  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NPM.png"/></a> &nbsp;
 </p>
 
 <h1></h1>
