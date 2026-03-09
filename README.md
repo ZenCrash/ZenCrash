@@ -43,66 +43,61 @@
 
 <h2 align="left">🛠 Contact Me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/allan-jacobsen-498240231/" target="blank"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/263396766274027520" target="blank"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/discord.png"/></a>
+  <a title="Linkedin.com/in/allan-jacobsen1" href="https://www.linkedin.com/in/allan-jacobsen-498240231/" target="blank"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/LinkedIn.png"/></a> &nbsp;&nbsp;
+  <a title="discordapp.com/users/Zen2Crash" href="https://discordapp.com/users/263396766274027520" target="blank"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/discord.png"/></a>
 </p>
 
 <h2 align="left">🛠 My Techstack</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a target="blank" href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/CS.png"/></a> &nbsp;
-  <a target="blank" href="https://www.java.com/en/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Java.png"/></a> &nbsp;
-  <a target="blank" href="https://www.javascript.com/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/JS.png"/></a> &nbsp;
-  <a target="blank" href="https://www.typescriptlang.org/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/TS.png"/></a> &nbsp;
-  <a target="blank" href="https://html5.org/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/html5.png"/></a> &nbsp;
-  <a target="blank" href="https://css3.com/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/css3.png"/></a>
+  <a target="blank" title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/CS.png"/></a> &nbsp;
+  <a target="blank" title="Java" href="https://www.java.com/en/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Java.png"/></a> &nbsp;
+  <a target="blank" title="Jave Script" href="https://www.javascript.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/JS.png"/></a> &nbsp;
+  <a target="blank" title="Type Script" href="https://www.typescriptlang.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/TS.png"/></a> &nbsp;
+  <a target="blank" title="Html 5" href="https://html5.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/html5.png"/></a> &nbsp;
+  <a target="blank" title="Css 3" href="https://css3.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/css3.png"/></a>
 </p>
 
 <h3 align="left">Front End:</h3>
 <p align="left">
-  <a target="blank" href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Blazor.png"/></a> &nbsp;
-  <a target="blank" href="https://react.dev/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
-  <a target="blank" href="https://reactnative.dev/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
-  <a target="blank" href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MVC.png"/></a> &nbsp;
-  <a target="blank" href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/WPF.png"/></a> &nbsp;
+  <a target="blank" title="Blazor" href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Blazor.png"/></a> &nbsp;
+  <a target="blank" title="React" href="https://react.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
+  <a target="blank" title="React Native" href="https://reactnative.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
+  <a target="blank" title="Asp.Net MVC" href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MVC.png"/></a> &nbsp;
+  <a target="blank" title=".Net WPF" href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/WPF.png"/></a> &nbsp;
   <br/>
-  <a target="blank" href="https://demos.devexpress.com/blazor/Grid"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
-  
-  <a target="blank" href="https://getbootstrap.com/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
-  <a target="blank" href="https://bulma.io/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
-  <a target="blank" href="https://www.fluentui-blazor.net/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
-  <a target="blank" href="https://tailwindcss.com/"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a>
+  <a target="blank" title="DevExpress" href="https://demos.devexpress.com/blazor/Grid"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
+  <a target="blank" title="Bootstrap" href="https://getbootstrap.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Bootstrap.png"/></a> &nbsp;
+  <a target="blank" title="Bulma" href="https://bulma.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Bulma.png"/></a> &nbsp;
+  <a target="blank" title="Tailwind" href="https://tailwindcss.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Tailwind.png"/></a>
+  <a target="blank" title="FluentUI" href="https://www.fluentui-blazor.net/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/FluentUI.png"/></a> &nbsp;
 
-  Bootstrap
-  Bulma
-  FluentUi
-  TailWind
 </p>
 
 <h3 align="left">Back End:</h3>
 <p align="left">
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MSSQL.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AzureTables.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
+  <a target="blank" title=".Net/Asp.Net" href="https://dotnet.microsoft.com/en-us/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
+  <a target="blank" title="MSSQL" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MSSQL.png"/></a> &nbsp;
+  <a target="blank" title="SQL Lite" href="https://www.sqlite.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
+  <a target="blank" title="Azure Tables" href="https://azure.microsoft.com/en-us/products/storage/tables"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AzureTables.png"/></a> &nbsp;
+  <a target="blank" title="Node JS" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
 </p>
 
 <h3 align="left">Testing and logs:</h3>
 <p align="left">
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/xUnit.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/BUnit.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NSubstitute.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/PlayWright.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Postman.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Serilog.png"/></a> &nbsp;
+  <a target="blank" title="XUnit" href="https://xunit.net/docs/getting-started/v2/getting-started"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/xUnit.png"/></a> &nbsp;
+  <a target="blank" title="BUnit" href="https://bunit.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/BUnit.png"/></a> &nbsp;
+  <a target="blank" title="NSubstitute" href="https://nsubstitute.github.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NSubstitute.png"/></a> &nbsp;
+  <a target="blank" title="PlayWright" href="https://playwright.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/PlayWright.png"/></a> &nbsp;
+  <a target="blank" title="Postman" href="https://www.postman.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Postman.png"/></a> &nbsp;
+  <a target="blank" title="Serilog" href="https://serilog.net/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Serilog.png"/></a> &nbsp;
 </p>
 
 <h3 align="left">Deployment:</h3>
 <p align="left">
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img width="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
-  <a target="blank" href="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NPM.png"/></a> &nbsp;
+  <a target="blank" title=".Net CLI" href="https://learn.microsoft.com/en-us/dotnet/core/tools/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
+  <a target="blank" title="NPM" href="https://www.npmjs.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NPM.png"/></a> &nbsp;
 </p>
 
 <h1></h1>
