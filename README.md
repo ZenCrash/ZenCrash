@@ -10,12 +10,9 @@
     We Ended up wrapping them in out own custom components (Blazor components).
     reason why examples include, Currency formattion, toast templates,
     Sidebar hamburgermenu/flyotu menu, shortcut handler. and so on.
-
     And with that i want to create my own Blazor component libary.
-    For now its using bootstrap, to minimize the amout of css i have to write. 
-    but will be seperated from it in the future.
-    (Project is needs documentation cleanup before i realse it on here. 
-    but will include a list of ToDo/done components when release on here)
+    (Todo - Add a readme on to repository aabout progress and documentation)
+    
   - .Net 10 Features, and proff of concept projects <br/>
     this entails hello login, Minimal SignalR intergration in service registration, and a few more
 
