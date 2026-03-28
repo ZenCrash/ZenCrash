@@ -87,6 +87,7 @@
   <a target="blank" title="BUnit" href="https://bunit.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/BUnit.png"/></a> &nbsp;
   <a target="blank" title="NSubstitute" href="https://nsubstitute.github.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NSubstitute.png"/></a> &nbsp;
   <a target="blank" title="PlayWright" href="https://playwright.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/PlayWright.png"/></a> &nbsp;
+  <a target="blank" title="Swagger" href="https://swagger.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Swagger1.png"/></a> &nbsp;
   <a target="blank" title="Postman" href="https://www.postman.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Postman.png"/></a> &nbsp;
   <a target="blank" title="Serilog" href="https://serilog.net/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Serilog.png"/></a> &nbsp;
 </p>
