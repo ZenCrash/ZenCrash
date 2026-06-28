@@ -78,6 +78,7 @@
   <a target="blank" title="SQL Lite" href="https://www.sqlite.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
   <a target="blank" title="Azure Tables" href="https://azure.microsoft.com/en-us/products/storage/tables"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AzureTables.png"/></a> &nbsp;
   <a target="blank" title="Node JS" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
+  <a target="blank" title="Nest Js" href="https://nestjs.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Nestjs.png"/></a> &nbsp;
 </p>
 
 <h3 align="left">Testing and logs:</h3>
