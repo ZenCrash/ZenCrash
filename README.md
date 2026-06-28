@@ -75,6 +75,7 @@
 <p align="left">
   <a target="blank" title=".Net/Asp.Net" href="https://dotnet.microsoft.com/en-us/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
   <a target="blank" title="Node JS" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
+  <a target="blank" title="Next JS" href="https://nextjs.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Nextjs.png"/></a> &nbsp;
   <a target="blank" title="Nest Js" href="https://nestjs.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Nestjs.png"/></a> &nbsp;
 </p>
 
