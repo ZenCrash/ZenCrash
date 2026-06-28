@@ -85,6 +85,10 @@
   <a target="blank" title="MSSQL" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MSSQL.png"/></a> &nbsp;
   <a target="blank" title="SQL Lite" href="https://www.sqlite.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
   <a target="blank" title="Azure Tables" href="https://azure.microsoft.com/en-us/products/storage/tables"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AzureTables.png"/></a> &nbsp;
+  <a target="blank" title="Postgres" href="https://www.postgresql.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Postgres.png"/></a> &nbsp;
+  <a target="blank" title="Entity Framework Core" href="https://learn.microsoft.com/en-us/ef/core/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/EntityFrameworkCore.png"/></a> &nbsp;
+  <a target="blank" title="Dapper" href="https://www.learndapper.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Dapper.png"/></a> &nbsp;
+  <a target="blank" title="Prisma" href="https://www.prisma.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Prisma.png"/></a> &nbsp;
 </p>
 
 <h3 align="left">Testing and logs:</h3>
