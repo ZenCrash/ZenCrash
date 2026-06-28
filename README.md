@@ -55,7 +55,7 @@
   <a target="blank" title="Css 3" href="https://css3.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/css3.png"/></a>
 </p>
 
-<h3 align="left">Front End:</h3>
+<h3 align="left">Front End: (Frameworks/Class Libaries)</h3>
 <p align="left">
   <a target="blank" title="Blazor" href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Blazor.png"/></a> &nbsp;
   <a target="blank" title="React" href="https://react.dev/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/React.png"/></a> &nbsp;
@@ -71,14 +71,20 @@
 
 </p>
 
-<h3 align="left">Back End:</h3>
+<h3 align="left">Frameworks:</h3>
 <p align="left">
   <a target="blank" title=".Net/Asp.Net" href="https://dotnet.microsoft.com/en-us/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
+  <a target="blank" title="Node JS" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
+  <a target="blank" title="Nest Js" href="https://nestjs.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Nestjs.png"/></a> &nbsp;
+</p>
+
+</p>
+
+<h3 align="left">Database & Orms</h3>
+<p align="left">
   <a target="blank" title="MSSQL" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MSSQL.png"/></a> &nbsp;
   <a target="blank" title="SQL Lite" href="https://www.sqlite.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/SQLLite.png"/></a> &nbsp;
   <a target="blank" title="Azure Tables" href="https://azure.microsoft.com/en-us/products/storage/tables"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AzureTables.png"/></a> &nbsp;
-  <a target="blank" title="Node JS" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
-  <a target="blank" title="Nest Js" href="https://nestjs.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Nestjs.png"/></a> &nbsp;
 </p>
 
 <h3 align="left">Testing and logs:</h3>
