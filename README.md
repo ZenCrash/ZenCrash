@@ -2,21 +2,21 @@
 
 * Iam an Software & Web Devoleper.
 * I’m currently working on these projects:
-  - Extended Component libary for Blazor. <br/>
+  - ZenBoxUi - Extended Component libary for Blazor. <br/>
     In Regards to my previous employment.
     We experimented with a bunch of diffrent css libarys, and component libarys.
     (FluentUi, Devexpress, Tailwind, Bootstrap, Bulma)
-    And while the reason for us using them is abstract that time/resource limitation/complexity away from us.
+    And while the reason for us using them is to abstract that time/resource limitation/complexity away from us.
     We Ended up wrapping them in out own custom components (Blazor components).
     reason why examples include, Currency formattion, toast templates,
     Sidebar hamburgermenu/flyotu menu, shortcut handler. and so on.
     And with that i want to create my own Blazor component libary.
-    (Todo - Add a readme on to repository aabout progress and documentation)
-    
-  - .Net 10 Features, and proff of concept projects <br/>
-    this entails hello login, Minimal SignalR intergration in service registration, and a few more
-
-  - Android app for audiobook management. - (On Hold) <br/>
+  - Charged - Health app for mobile <br/>
+        This project came about with a group of people heavyly leaning into apple based technologies.
+        And with that create a health app for tracking social energy in relation to self, groups and events.
+        And with that graph you energy to your friends, 
+        while also reccomend changes based on how serten events/people/times during the day changes your social capasity.
+  - ReactNative audiobook management. <br/>
         filemanagement,
         file status list (listning, On hold, Dropped, Planned) 
         friends management.
@@ -32,7 +32,6 @@
   - In regards of job opportunities,
     I would just like to state that my commit activity does not reflect all my project. <br/>
     Some are private and others ends up being called .v20 to reflect the version editoration ive committed.
-    I commit about 2-4 times a week in regards to my active projects.
   - Also my last employment was dirictly working with Health Data (GDPR). <br/>
     So while most of my projects from last 2 years does not have any sensitive data in them.
     They might have some Company spesific proff of concept tooling that needs to be flushed before i can make the public.
