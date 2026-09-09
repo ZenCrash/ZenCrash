@@ -63,11 +63,12 @@
   <a target="blank" title="Asp.Net MVC" href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MVC.png"/></a> &nbsp;
   <a target="blank" title=".Net WPF" href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/WPF.png"/></a> &nbsp;
   <br/>
-  <a target="blank" title="DevExpress" href="https://demos.devexpress.com/blazor/Grid"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
-  <a target="blank" title="Bootstrap" href="https://getbootstrap.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Bootstrap.png"/></a> &nbsp;
-  <a target="blank" title="Bulma" href="https://bulma.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Bulma.png"/></a> &nbsp;
   <a target="blank" title="Tailwind" href="https://tailwindcss.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Tailwind.png"/></a>
+  <a target="blank" title="Material Ui" href="https://mui.com/material-ui/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MaterialUi.png"/></a>
+  <a target="blank" title="Bootstrap" href="https://getbootstrap.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Bootstrap.png"/></a> &nbsp;
+  <a target="blank" title="DevExpress" href="https://demos.devexpress.com/blazor/Grid"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/DevExpress.png"/></a> &nbsp;
   <a target="blank" title="FluentUI" href="https://www.fluentui-blazor.net/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/FluentUI.png"/></a> &nbsp;
+  <a target="blank" title="Bulma" href="https://bulma.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Bulma.png"/></a> &nbsp;
 
 </p>
 
