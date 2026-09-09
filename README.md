@@ -84,9 +84,9 @@
 
 <h3 align="left">Security & Auth:</h3>
 <p align="left">
-  <a target="blank" title=".Net/Asp.Net" href="https://dotnet.microsoft.com/en-us/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
-  <a target="blank" title="Node JS" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NodeJS.png"/></a> &nbsp;
-  <a target="blank" title="Next JS" href="https://nextjs.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Nextjs.png"/></a> &nbsp;
+  <a target="blank" title="KeyCloak" href="https://dotnet.microsoft.com/en-us/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/KeyCloak.png"/></a> &nbsp;
+  <a target="blank" title="Better Auth" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/BetterAuth.png"/></a> &nbsp;
+  <a target="blank" title="Asp.Net Identity" href="https://nextjs.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AspNetIdentity.png"/></a> &nbsp;
 </p>
 
 </p>
