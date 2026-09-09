@@ -84,9 +84,18 @@
 
 <h3 align="left">Security & Auth:</h3>
 <p align="left">
-  <a target="blank" title="KeyCloak" href="https://dotnet.microsoft.com/en-us/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/KeyCloak.png"/></a> &nbsp;
-  <a target="blank" title="Better Auth" href="https://nodejs.org/en"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/BetterAuth.png"/></a> &nbsp;
-  <a target="blank" title="Asp.Net Identity" href="https://nextjs.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AspNetIdentity.png"/></a> &nbsp;
+  <a target="blank" title="KeyCloak" href="https://www.keycloak.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/KeyCloak.png"/></a> &nbsp;
+  <a target="blank" title="Better Auth" href="https://better-auth.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/BetterAuth.png"/></a> &nbsp;
+  <a target="blank" title="Asp.Net Identity" href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-10.0&tabs=visual-studio"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/AspNetIdentity.png"/></a> &nbsp;
+</p>
+
+</p>
+
+<h3 align="left">Email Services</h3>
+<p align="left">
+  <a target="blank" title="Brevo" href="https://www.brevo.com/?gad_source=1&gad_campaignid=23784681599&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmodHV2lCsYdBBsvWfe4Z5vfWiKwEEDISXfDgkcJehQ3kZryLFdQIWMaAsJcEALw_wcB"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Brevo.png"/></a> &nbsp;
+  <a target="blank" title="Resend" href="https://resend.com"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Resend.png"/></a> &nbsp;
+  <a target="blank" title="MailPit" href="https://mailpit.axllent.org/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/MailPit.png"/></a> &nbsp;
 </p>
 
 </p>
@@ -102,6 +111,8 @@
   <a target="blank" title="Prisma" href="https://www.prisma.io/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Prisma.png"/></a> &nbsp;
 </p>
 
+</p>
+
 <h3 align="left">Testing and logs:</h3>
 <p align="left">
   <a target="blank" title="XUnit" href="https://xunit.net/docs/getting-started/v2/getting-started"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/xUnit.png"/></a> &nbsp;
@@ -113,10 +124,14 @@
   <a target="blank" title="Serilog" href="https://serilog.net/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Serilog.png"/></a> &nbsp;
 </p>
 
+</p>
+
 <h3 align="left">Deployment:</h3>
 <p align="left">
+  <a target="blank" title="Docker" href="https://www.docker.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Docker.png"/></a> &nbsp;
   <a target="blank" title=".Net CLI" href="https://learn.microsoft.com/en-us/dotnet/core/tools/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/dotnet.png"/></a> &nbsp;
-  <a target="blank" title="NPM" href="https://www.npmjs.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/NPM.png"/></a> &nbsp;
+  <a target="blank" title="Vercel" href="https://vercel.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Vercel.png"/></a> &nbsp;
+  <a target="blank" title="Render" href="https://render.com/"><img height="60px" src="https://github.com/ZenCrash/ZenCrash/blob/main/Icons/Render.png"/></a> &nbsp;
 </p>
 
 <h1></h1>
